@@ -31,7 +31,7 @@ Wireless connection
 
 ## Wiring 
 
-![](C:/GIT/Linak-standing-desk-wireless-remote/schematic.png)
+![](schematic.png)
 
 
 
